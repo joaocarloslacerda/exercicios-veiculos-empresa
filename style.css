@@ -1,0 +1,10 @@
+.tabelaVeiculos {
+    border: 2px solid black;
+}
+.tabelaVeiculos table, th, td{
+    border: 1px solid black;
+}
+#btnAtualizar{
+    width: 40px;
+    height: 40px;
+}
